@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="regularexpressions_app.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="14"/>
+        <UsageCount Value="44"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="er.view.regexform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="RegularExpressionsForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="57"/>
+        <CursorPos X="3" Y="87"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="er.model.abstractphotos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="13"/>
+        <CursorPos Y="29"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="er.model.concretephotos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="21"/>
+        <CursorPos X="3" Y="34"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32listsl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="153"/>
+        <CursorPos Y="153"/>
+        <UsageCount Value="18"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\lcl\extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="555"/>
+        <CursorPos X="3" Y="568"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\win\sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1747"/>
+        <CursorPos X="3" Y="1760"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+    </Units>
+    <JumpHistory Count="17" HistoryIndex="16">
+      <Position1>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="39" Column="25" TopLine="26"/>
+      </Position1>
+      <Position2>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="89" Column="25" TopLine="71"/>
+      </Position2>
+      <Position3>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="87" Column="7" TopLine="71"/>
+      </Position3>
+      <Position4>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="89" TopLine="71"/>
+      </Position4>
+      <Position5>
+        <Filename Value="er.model.concretephotos.pas"/>
+        <Caret Line="28" Column="13" TopLine="18"/>
+      </Position5>
+      <Position6>
+        <Filename Value="er.model.concretephotos.pas"/>
+        <Caret Line="35" Column="26" TopLine="21"/>
+      </Position6>
+      <Position7>
+        <Filename Value="er.model.concretephotos.pas"/>
+        <Caret Line="36" TopLine="21"/>
+      </Position7>
+      <Position8>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="87" Column="5" TopLine="70"/>
+      </Position8>
+      <Position9>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="86" Column="5" TopLine="69"/>
+      </Position9>
+      <Position10>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="87" Column="5" TopLine="70"/>
+      </Position10>
+      <Position11>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="90" Column="36" TopLine="75"/>
+      </Position11>
+      <Position12>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="89" Column="36" TopLine="74"/>
+      </Position12>
+      <Position13>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="90" Column="38" TopLine="75"/>
+      </Position13>
+      <Position14>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="22" Column="33" TopLine="9"/>
+      </Position14>
+      <Position15>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="91" Column="41" TopLine="76"/>
+      </Position15>
+      <Position16>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="95" TopLine="76"/>
+      </Position16>
+      <Position17>
+        <Filename Value="er.view.regexform.pas"/>
+        <Caret Line="91" Column="3" TopLine="66"/>
+      </Position17>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
